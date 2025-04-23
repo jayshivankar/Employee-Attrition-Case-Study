@@ -90,10 +90,5 @@ jupyter notebook eda/employee_eda.ipynb
 - This is an EDA-only project and does not include any predictive modeling.
 - Results are intended for insights and internal reporting.
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Feel free to contribute or fork the repo for your own analysis!
